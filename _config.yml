@@ -26,23 +26,25 @@ description: >- # used by seo meta and the atom feed
 url: "https://clairejung.site"
 
 github:
-  username: psdjung # change to your GitHub username
+  username: clairehyj # change to your GitHub username
 
 twitter:
-  username: psdjung # change to your Twitter username
+  username: clairehyj # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Claire Jung
-  email: psdjung@gmail.com # change to your email address
+  email: clairehyj@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/psdjung # change to your Twitter homepage
-    - https://github.com/psdjung # change to your GitHub homepage
+    - https://twitter.com/clairehyj # change to your Twitter homepage
+    - https://github.com/clairehyj # change to your GitHub homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/psdjung
-    - https://www.linkedin.com/in/psdjung
+    - https://www.facebook.com/claire.jung.346950
+    - https://www.linkedin.com/in/clairehyj
+    - https://www.instagram.com/clxxrx.jxng
+    # Discord: clhyj#3828
 
 # Site Verification Settings
 webmaster_verifications:
