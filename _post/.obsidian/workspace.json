@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "bfc9278268f5552b",
+    "type": "split",
+    "children": [
+      {
+        "id": "23845dfbb70784f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdb880f8982c43c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-27-usa-expansion-strategy-for-asian-company–homogeneity-vs-diversity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-27-usa-expansion-strategy-for-asian-company–homogeneity-vs-diversity"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "608103c95ee638ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "4049451dc11911db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a08cbd0d1338f1a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8dd5f2a82bee05c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed9d4eb41b7ed543",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71457ebf18ae43fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c131fab243ef4a88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41e6f806e7c843f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-07-27-usa-expansion-strategy-for-asian-company–homogeneity-vs-diversity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-07-27-usa-expansion-strategy-for-asian-company–homogeneity-vs-diversity"
+            }
+          },
+          {
+            "id": "da1ed90b41a11a6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-07-27-usa-expansion-strategy-for-asian-company–homogeneity-vs-diversity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-07-27-usa-expansion-strategy-for-asian-company–homogeneity-vs-diversity"
+            }
+          },
+          {
+            "id": "e11cd592808b9555",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6259e13bbeccacc7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5191a08da0abea1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-07-27-usa-expansion-strategy-for-asian-company–homogeneity-vs-diversity.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-07-27-usa-expansion-strategy-for-asian-company–homogeneity-vs-diversity"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bdb880f8982c43c7",
+  "lastOpenFiles": []
+}
