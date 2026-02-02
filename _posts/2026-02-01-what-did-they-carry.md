@@ -10,9 +10,9 @@ pin: true
 math: false
 mermaid: false
 image:
-  path: /assets/img/posts/2025-07-27-usa-expansion-strategy-for-asian-company–homogeneity-vs-diversity.png
-  lqip: /assets/img/posts/2025-07-27-usa-expansion-strategy-for-asian-company–homogeneity-vs-diversity.png
-  alt: U.S. Expansion Strategy for Asian Company – Homogeneity vs. Diversity
+  path: /assets/img/posts/2026-02-01-what-did-they-carry.jpg
+  lqip: /assets/img/posts/2026-02-01-what-did-they-carry.jpg
+  alt: Claire
 ---
 
 ## Whatever
